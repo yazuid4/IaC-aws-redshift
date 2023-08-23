@@ -1,0 +1,1 @@
+# IaC-aws-redshift
